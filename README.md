@@ -1,6 +1,6 @@
 ## Flipkart Clone - MERN Stack
 
-![Flipkart Clone Logo]([https://your-image-link.com](https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fk-logo_f64bb3.png))
+![Flipkart Clone Logo]([https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fk-logo_f64bb3.png])
 
 ## Introduction
 
