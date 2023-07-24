@@ -111,6 +111,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - This project is for educational purposes only.
 - Flipkart is a registered trademark of Flipkart Internet Private Limited. This clone is not affiliated with or endorsed by Flipkart.
 
----
-
-Feel free to add more sections to the README file based on your specific project requirements or guidelines. Ensure to update the placeholders and instructions as needed to make it informative and helpful to other developers. Happy coding!
+Made by ❤️
