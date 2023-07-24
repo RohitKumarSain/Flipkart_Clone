@@ -1,7 +1,5 @@
 ## Flipkart Clone - MERN Stack
 
-![Flipkart Clone Logo]([https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fk-logo_f64bb3.png])
-
 ## Introduction
 
 This is a Flipkart clone built using the MERN (MongoDB, Express, React, Node.js) stack. The application aims to replicate the core functionalities of the popular e-commerce platform, Flipkart. Users can browse through a wide range of products, add items to their cart, place orders, and more.
