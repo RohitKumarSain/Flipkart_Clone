@@ -1,5 +1,7 @@
 ## Flipkart Clone - MERN Stack
-Note: Netlify only show static webpage but it work in dynamic on localhost
+Note: Netlify only show static webpage but it work in dynamic on localhost. It cannot fetch mongodb data on netlify. So, I add mongodb
+_product_datasample 
+
 ## Introduction
 
 This is a Flipkart clone built using the MERN (MongoDB, Express, React, Node.js) stack. The application aims to replicate the core functionalities of the popular e-commerce platform, Flipkart. Users can browse through a wide range of products, add items to their cart, place orders, and more.
